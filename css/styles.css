@@ -10959,3 +10959,19 @@ textarea.form-control-lg {
 #productos h1{
   text-align: center;
 }
+
+.sobrenosotros{
+  padding: 40px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 500px;
+  background-image: url(../assets/GOLGgradient.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  background-attachment: fixed;
+  
+}
