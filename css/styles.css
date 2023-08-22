@@ -3629,7 +3629,6 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-  
 }
 
 .nav-link {
@@ -10973,6 +10972,40 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-size: cover;
   color: black;
+  background-attachment: fixed;
   
-  
+}
+
+/*Estilos para el formulario*/
+
+/*Modificación de los estilos de Bootstrap con un colo de nuestra elección*/
+
+/*Editamos los colores del boton de Enviar*/
+.btn-primary {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+/*Editamos los colores del boton de Enviar en Hover y Active*/
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited, .btn-primary:focus {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+
+/*Editamos el color del input focus de bootstrap*/
+.form-control:focus {
+  border-color: gray;
+  box-shadow: 0 0 0 0.2rem rgba(122, 122, 122, 0.25);
+} 
+
+/*Estilos para el texto de contacto*/
+.h2Contacto{
+  text-align: center;
+}
+
+#contacto h2{
+  margin-top: 50px;
 }
