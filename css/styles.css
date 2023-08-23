@@ -10950,7 +10950,7 @@ textarea.form-control-lg {
   align-items: center;
   width: 100%;
   height: 600px;
- background-image: url(../assets/FOTOCONDE1.jpeg);
+ background-image: url(../assets/FOTCONDE2.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11009,3 +11009,96 @@ textarea.form-control-lg {
 #contacto h2{
   margin-top: 50px;
 }
+
+
+
+.textocarousel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.pagos{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.bizum{
+  height: 50px;
+  width: 100px;
+
+  background-image: url(../assets/Bizum.png);
+  background-size: cover;
+}
+
+.banco{
+  height: 50px;
+  width: 100px;
+
+  background-image: url(../assets/transferencia.png);
+  background-size: cover;
+}
+
+.rrss{
+  display: flex;
+  height: 100px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+
+
+/*PÁGINA GORRA 1*/
+.contenidogorra{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  text-align: center;
+}
+
+.imagengorra1{
+
+  display: flex;
+  height: 300px;
+  width: 400px;
+  background-image: url(../assets/gorraarena.png);
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin-left: 100px;
+}
+
+.imagengorra2{
+
+  display: flex;
+  height: 300px;
+  width: 400px;
+  background-image: url(../assets/MOCKUPGORRA1.jpeg);
+  background-size:cover;
+  background-repeat: no-repeat;
+
+}
+
+.imagengorra3{
+  display: flex;
+  height: 300px;
+  width: 400px;
+  background-image: url(../assets/classic-dad-hat-stone-front-64e23c2baf572.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.contenidogorra a{
+  margin-top: 20px;
+}
+
+
+
