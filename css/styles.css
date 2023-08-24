@@ -11100,5 +11100,124 @@ textarea.form-control-lg {
   margin-top: 20px;
 }
 
+.card:hover{
+  background-color: lightgray;
+}
+
+.card:active{
+  background-color: lightgray;
+}
+
+.card a{
+  text-align: center;
+  color: goldenrod;
+}
+
+.footer a{
+  color: goldenrod;
+  text-decoration: underline;
+}
+
+
+/*Estilos  página gorra 2*/
+
+.imagengorra21{
+  background-image: url(../assets/gorranavy.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagengorra22{
+  background-image: url(../assets/fotogorracarla.jpeg);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagengorra23{
+  background-image: url(../assets/MOCKUPGORRA1.jpeg);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+/*Estilos para página camiseta1*/
+.contenidocamiseta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  text-align: center;
+}
+
+.imagencamiseta1{
+  background-image: url(../assets/mockupcamsetaverde.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagencamiseta2{
+  background-image: url(../assets/condeverde.jpeg);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagencamiseta3{
+  
+  background-image: url(../assets/sfit.jpeg);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+
+
+.contenidocamiseta a{
+  margin-top: 20px;
+}
+
+.imagencamiseta21{
+  background-image: url(../assets/summertee.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagencamiseta22{
+  background-image: url(../assets/summertee2.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagencamiseta23{
+  background-image: url(../assets/mens-garment-dyed-heavyweight-t-shirt-black-back-64e48065d2a11.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
 
 
