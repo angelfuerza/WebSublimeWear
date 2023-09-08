@@ -11025,23 +11025,48 @@ textarea.form-control-lg {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
+  
 }
 
-.bizum{
-  height: 50px;
-  width: 100px;
-
-  background-image: url(../assets/Bizum.png);
-  background-size: cover;
+.pagos div{
+  margin-right: 10px;
 }
 
-.banco{
-  height: 50px;
-  width: 100px;
+.visa{
+  height: 30px;
+  width: 50px;
 
-  background-image: url(../assets/transferencia.png);
-  background-size: cover;
+  background-image: url(../assets/visa.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mastercard{
+  height: 30px;
+  width: 50px;
+
+  background-image: url(../assets/mastercard.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.gpay{
+  height: 30px;
+  width: 50px;
+
+  background-image: url(../assets/Google_Pay_Logo.svg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.apay{
+  height: 30px;
+  width: 50px;
+
+  background-image: url(../assets/1280px-Apple_Pay_logo.svg.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .rrss{
