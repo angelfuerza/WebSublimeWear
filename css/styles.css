@@ -108,9 +108,10 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  background-color: #2f2f2f;
+  color: #ffffff;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -3682,7 +3683,7 @@ textarea.form-control-lg {
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: var(--bs-nav-tabs-link-active-color);
+  color: rgb(255 255 255 / 90%);
   background-color: var(--bs-nav-tabs-link-active-bg);
   border-color: var(--bs-nav-tabs-link-active-border-color);
 }
@@ -3806,7 +3807,7 @@ textarea.form-control-lg {
 }
 .navbar-nav .show > .nav-link,
 .navbar-nav .nav-link.active {
-  color: var(--bs-navbar-active-color);
+  color: white;
 }
 .navbar-nav .dropdown-menu {
   position: static;
@@ -4186,7 +4187,7 @@ textarea.form-control-lg {
   min-width: 0;
   height: var(--bs-card-height);
   word-wrap: break-word;
-  background-color: var(--bs-card-bg);
+  background-color: #5b5b5b;
   background-clip: border-box;
   border: var(--bs-card-border-width) solid var(--bs-card-border-color);
   border-radius: var(--bs-card-border-radius);
@@ -10865,7 +10866,7 @@ textarea.form-control-lg {
   position: absolute;
   height: 3px;
   width: 100%;
-  background: black;
+  background: white;
   border-radius: 1px;
   opacity: 1;
   left: 0;
@@ -11218,7 +11219,7 @@ textarea.form-control-lg {
 }
 
 .imagencamiseta21{
-  background-image: url(../assets/summertee.png);
+  background-image: url(../assets/sfitwhite.png);
   display: flex;
   height: 400px;
   width: 400px;
@@ -11227,7 +11228,7 @@ textarea.form-control-lg {
 }
 
 .imagencamiseta22{
-  background-image: url(../assets/summertee2.png);
+  background-image: url(../assets/foto2sfit.png);
   display: flex;
   height: 400px;
   width: 400px;
@@ -11236,13 +11237,70 @@ textarea.form-control-lg {
 }
 
 .imagencamiseta23{
-  background-image: url(../assets/mens-garment-dyed-heavyweight-t-shirt-black-back-64e48065d2a11.png);
+  background-image: url(../assets/fotosfit.jpeg);
   display: flex;
   height: 400px;
   width: 400px;
   background-size:cover;
   background-repeat: no-repeat;
 }
+
+
+.imagensudadera1{
+  background-image: url(../assets/lobo1.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagensudadera2{
+  background-image: url(../assets/lobo2.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagensudadera3{
+  background-image: url(../assets/lobo3.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagensudadera21{
+  background-image: url(../assets/hoodiefit1.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagensudadera22{
+  background-image: url(../assets/hoodiefit3.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.imagensudadera23{
+  background-image: url(../assets/hoodiefit4.png);
+  display: flex;
+  height: 400px;
+  width: 400px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+
 
 
 
