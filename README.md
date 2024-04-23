@@ -1,8 +1,6 @@
 # WebSublimeWear
 Web Sumblimewear
 
-# Título del Proyecto 
-
 ![Imagen de Portada](WEB.png) 
 
 ## Descripción
