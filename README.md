@@ -3,7 +3,7 @@ Web Sumblimewear
 
 # Título del Proyecto 
 
-![Imagen de Portada](img/romano.jpg) 
+![Imagen de Portada](WEB.png) 
 
 ## Descripción
 Se trata de una tienda online desarrollada con Bootstrap
